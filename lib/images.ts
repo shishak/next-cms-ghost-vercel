@@ -113,5 +113,5 @@ export const normalizedImageUrl = async (url: string) => {
     }
     return `${processEnv.siteUrl}/images/${filename}`
   }
-  return url.startsWith('//') ? `https:${url}` : url
+  return url.startsWith('//') ? `http:${url}` : url
 }
