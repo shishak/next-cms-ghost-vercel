@@ -11,7 +11,7 @@ module.exports = withBundleAnalyzer({
       'images.unsplash.com',
       'static.gotsby.org',
       'static.ghost.org',
-      'hooshmand.net',
+      '18.193.174.227',
       'cms.jamify.org',
       'demo.jamify.org',
       'www.jamify.org',
